@@ -2,6 +2,8 @@ name: Build and Test Backend App
 
 on:
   push:
+    branches:
+      - '**'
     branches-ignore:
       - master
 
