@@ -1,0 +1,19 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnuprabhakar42/git-aciton-test.git"
+  },
+  "author": "vishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnuprabhakar42/git-aciton-test/issues"
+  },
+  "homepage": "https://github.com/vishnuprabhakar42/git-aciton-test#readme",
+  "description": ""
+}
