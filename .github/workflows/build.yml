@@ -1,8 +1,8 @@
-name: Build and Test Backend App
+name: Build and test Backend Apps
 
-on:
+on: 
   push:
-    branches-ignore:
+    branches:
       - master
 
 jobs:
